@@ -26,3 +26,6 @@ textarea {
   padding: 0.5em;
   border: solid 1px #964;
 }
+body {
+  background-image: url ("CCCimg.jpeg");
+}
